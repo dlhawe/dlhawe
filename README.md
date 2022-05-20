@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dlhawe
-- 👀 I’m interested in moving from project management into the security space
+- 👀 I’m interested in strengthening my knowledge of security space topics
 - 🌱 I’m currently learning python from several sources
 - 💞️ I’m looking to collaborate on python and/or security-related topics
 - 📫 How to reach me: dlhawe@gmail.com
